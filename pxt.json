@@ -1,5 +1,5 @@
 {
-    "name": "k",
+    "name": "조도조절",
     "description": "",
     "dependencies": {
         "core": "*",
